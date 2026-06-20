@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Project generated files
+tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
